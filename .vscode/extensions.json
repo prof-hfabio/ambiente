@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+    "streetsidesoftware.code-spell-checker",
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "ritwickdey.liveserver",
+    "pkief.material-icon-theme",
+    "whizkydee.material-palenight-theme",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "yoavbls.pretty-ts-errors"
+  ]
+}
